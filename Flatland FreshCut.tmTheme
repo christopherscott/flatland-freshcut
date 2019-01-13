@@ -390,6 +390,17 @@
 				<string>#FD971F</string>
 			</dict>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>Prop</string>
+			<key>scope</key>
+			<string>meta.object-literal.key.ts</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#e9ee00</string>
+			</dict>
+		</dict>
 	</array>
 	<key>uuid</key>
 	<string>09D1BE89-328E-4197-8CAE-1772B6C61DF9</string>
